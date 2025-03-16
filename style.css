@@ -98,8 +98,8 @@ html{
     display: flex;
 }
 #pic img{
-    width: 975px;
-    height: 600px;
+    width: 875px;
+    height: 500px;
     border-radius: 20px;
     
 }
@@ -131,7 +131,7 @@ html{
     justify-content: space-around;
     box-sizing: border-box;
 }
-.gallery > img{
+.gallery a > img{
     width: 400px;
     height: 740px;
     margin: 10px;
